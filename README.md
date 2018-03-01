@@ -1,2 +1,2 @@
 # project2
-game
+This is a readme for Project 2
